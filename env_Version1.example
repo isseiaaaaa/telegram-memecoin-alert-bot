@@ -1,0 +1,7 @@
+TG_TOKEN=your-telegram-bot-token
+TG_CHAT=your-chat-id
+TW_BEARER=your-twitter-bearer-token
+FETCH_INTERVAL=60
+ALERT_SCORE=0.8
+LIQ_MIN_USD=2000
+LOCK_DAYS_MIN=30
